@@ -1,16 +1,27 @@
 ## Hi, I'm Rosselyn Oliva 👋
 
-<!--
-**Mrfunderburker/Mrfunderburker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring data analyst currently enhancing my skills through The Knowledge House (THK) Data Science Fellowship. I’m passionate about using data to uncover insights and help drive decision-making.
 
-Here are some ideas to get you started:
+## 🔭 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-Rosselynoliva@gmail.com
+Programming Languages: Python
 
--->
+Data Manipulation: Pandas
+
+Data Visualization: Matplotlib, Seaborn
+
+Statistical Analysis: Basic statistical techniques
+
+Interactive Computing: Jupyter Notebooks
+
+## 🌱 Currently Learning
+
+Statistical Analysis: Advanced statistical techniques
+
+Databases: SQL
+
+Data Visualization: Tableau, Pivot tables
+
+## 📫 How to Reach Me
+
+Email: Rosselynoliva@gmail.com
