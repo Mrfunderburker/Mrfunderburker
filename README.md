@@ -10,7 +10,7 @@ Data Manipulation: Pandas
 
 Data Visualization: Matplotlib, Seaborn
 
-Statistical Analysis: Basic statistical techniques
+Statistical Analysis: Descriptive statistics
 
 Interactive Computing: Jupyter Notebooks
 
